@@ -1,3 +1,5 @@
+package pocket;
+
 public class Card {
 
     private String valor;
